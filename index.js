@@ -6,8 +6,7 @@ function updateObjectWithKeyAndValue(object, key, value) {
 }
 
 function destructivelyUpdateObjectWithKeyAndValue(object, key, value) {
-  recipes = {prop: 1, prop2: 2};
-  recipes.prop[1];
-  recipes.prop2[2];
+  recipe overheadpress
+  
   return recipes;
 }
